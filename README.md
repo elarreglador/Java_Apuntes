@@ -7,7 +7,7 @@
                         \/ |__|                \/            \/      \/  
 *****************************************************************************************
 *****************************************************************************************
-
+[Imagen](https://github.com/elarreglador/Java_Apuntes/blob/main/SCREENSHOTS/1.png)
 
 ************************************
 ACERCA DEL AUTOR
@@ -27,6 +27,8 @@ Apuntes de Java que facilitan el estudio.
 En el costado izquierdo se muestran los temas, mientras que a la derecha tenemos
 dos campos de texto; la explicacion y el codigo por cada objeto que 
 seleccionemos a la izquierda 
+
+[Imagen](https://github.com/elarreglador/Java_Apuntes/blob/main/SCREENSHOTS/2.png)
 
 Es posible borrar objetos y/o agregar otros nuevos, por lo que esta aplicacion
 resulta flexible a la hora de guardar datos y consultarlos de una forma relativamente
